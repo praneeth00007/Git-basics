@@ -27,5 +27,9 @@ git branch Main
 git remote --v : for getting the repo url we used we mainly use repo name as "origin" 
 
 
+Hey we use git fetch to fetch the remote code i.e github hosted code
+To fetch the code : git fetch
 
+u can see the code is not fetched , u need to get the code by using git merge branch name ie the name is origin/branch-name
 
+To delete a branch we use "git branch -d b-name"
