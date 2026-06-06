@@ -55,4 +55,15 @@ in test it still shows "i love main"
 
 either u need to merge in order to get the commits or need to use rebase
 
-i understood now
+i understood now 
+
+when the both main and other branches had same code and lets say test
+
+and after u had added some more features to test now u had commited 
+
+when u checkout and tried to delete using -d u get erorr
+
+error: The branch 'test' is not fully merged.
+If you are sure you want to delete it, run 'git branch -D test'.
+
+wow !
