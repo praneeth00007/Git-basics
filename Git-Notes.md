@@ -37,3 +37,7 @@ To delete a branch we use "git branch -d b-name"
 We use one command for fetch,merge ie "pull" command
 
 ie we use git pull to fetch and merge the branch
+
+we can edit the code and add some features too in github using github code spaces
+
+using "github.dev"
