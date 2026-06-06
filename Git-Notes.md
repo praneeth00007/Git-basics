@@ -41,3 +41,16 @@ ie we use git pull to fetch and merge the branch
 we can edit the code and add some features too in github using github code spaces
 
 using "github.dev"
+
+Hey man just learned new concept 
+
+lets say if my main branch had code : "I love main"
+
+and after i had commited and now i had created a new branch test
+
+now if i had switched to test i see same code of main
+
+i shocked when i had updated some code in main " i love main updated"
+in test it still shows "i love main"
+
+either u need to merge in order to get the commits or need to use rebase 
