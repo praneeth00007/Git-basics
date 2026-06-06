@@ -53,4 +53,6 @@ now if i had switched to test i see same code of main
 i shocked when i had updated some code in main " i love main updated"
 in test it still shows "i love main"
 
-either u need to merge in order to get the commits or need to use rebase 
+either u need to merge in order to get the commits or need to use rebase
+
+i understood now
