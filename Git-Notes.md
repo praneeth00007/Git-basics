@@ -55,7 +55,7 @@ in test it still shows "i love main"
 
 either u need to merge in order to get the commits or need to use rebase
 
-i understood now 
+i understood now maybe lets test
 
 when the both main and other branches had same code and lets say test
 
