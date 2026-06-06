@@ -73,4 +73,8 @@ No lets see it would be but
 OK wow man , lets say we had a code of "a b c" in main , test and in test we had "a b c d" later in main "a b c r" and we had merged
 in main using git merge test we accept current change " a b c r" only later when we try to merge it just shows "Already up to date."
 
-wow
+wow & lets say we had used accept both changes it shows the main code followed by next branch code we want to merge in the curr branch
+
+like this
+like that
+
