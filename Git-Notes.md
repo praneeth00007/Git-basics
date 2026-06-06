@@ -78,3 +78,6 @@ wow & lets say we had used accept both changes it shows the main code followed b
 like this
 like that
 
+u can use git diff to get the difference btw code
+
+if u want to abort changes u can use "git merge --abort"
