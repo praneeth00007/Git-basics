@@ -83,3 +83,6 @@ u can use git diff to get the difference btw code
 if u want to abort changes u can use "git merge --abort"
 
 something new
+
+Ok if i had tried to merge , not done later i used abort then it wont affect like u can merge again and it doesnt think u had merged nice
+
