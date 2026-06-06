@@ -17,3 +17,15 @@ we can use
 
 git commit -am "Commit msg"
 
+
+we use git branch to create branches and know which branch we are :
+
+git branch
+
+git branch Main
+
+git remote --v : for getting the repo url we used we mainly use repo name as "origin" 
+
+
+
+
