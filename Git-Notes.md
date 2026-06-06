@@ -67,3 +67,5 @@ error: The branch 'test' is not fully merged.
 If you are sure you want to delete it, run 'git branch -D test'.
 
 wow !
+
+lets made a conflict git
