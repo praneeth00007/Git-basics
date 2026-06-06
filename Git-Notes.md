@@ -33,3 +33,7 @@ To fetch the code : git fetch
 u can see the code is not fetched , u need to get the code by using git merge branch name ie the name is origin/branch-name
 
 To delete a branch we use "git branch -d b-name"
+
+We use one command for fetch,merge ie "pull" command
+
+ie we use git pull to fetch and merge the branch
